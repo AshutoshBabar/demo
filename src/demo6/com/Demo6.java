@@ -16,7 +16,7 @@ void m1()                        // instance method
 	int c;                       // local variable
 	 System.out.println(" instnce met aaaa===="+a);  // no need to create object because variable is instance and field/method is also instance in same class
 	  System.out.println(" instance met bbbb===="+b);
-	  
+	  System.out.println("demo");
  }
  
  static void m2() 
